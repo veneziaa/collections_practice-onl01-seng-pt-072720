@@ -56,3 +56,6 @@ def sum_array(array)
   end
   sum
 end 
+
+sum_array([11,4,7,8,9,100,134])
+
